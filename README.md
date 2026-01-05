@@ -4,9 +4,9 @@ Projeto de transformação de dados de uma plalhina de Vendas de assinaturas de 
 
 🚩Informçoes contindas no Dashboard
 
-- 1- Contendo as informações sobre tipos de assinaturas (Ultimate, Core e Standard)
-- 2- Assinaturas complementares EA Play Season Pass e Minecraft Season Pass
-- 3- Soma dos valores totais conforme o  Annual, Monthly e Quarterly 
+- Contendo as informações sobre tipos de assinaturas (Ultimate, Core e Standard)
+- Assinaturas complementares EA Play Season Pass e Minecraft Season Pass
+- Soma dos valores totais conforme o  Annual, Monthly e Quarterly 
 
 💾 Base de Dados.
 
